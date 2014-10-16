@@ -79,7 +79,8 @@ hiero_linux: /usr/local/Hiero1.8v2/bin/Hiero1.8v2
 # Softimage
 #
 
-softimage_windows: C:\Program Files\Autodesk\Softimage 2013\Application\bin\XSI.bat
+#softimage_windows: C:\Program Files\Autodesk\Softimage 2013\Application\bin\XSI.bat
+softimage_windows: C:\Program Files\Autodesk\Softimage 2014 SP2\Application\bin\XSI.bat
 softimage_linux: XSI
 
 #

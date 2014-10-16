@@ -9,8 +9,8 @@
 # not expressly granted therein are reserved by Shotgun Software Inc.
 
 # the type of dynamic content
-type: "shotgun_step"
+type: "static"
 
-# the shotgun field to use for the folder name
-name: "code"
+# defer creation and only create this folder when 3dsmax starts
+defer_creation: "tk-3dsmax"
 
